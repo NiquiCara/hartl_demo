@@ -17,8 +17,10 @@ gem 'execjs'
 gem 'mini_racer'
 gem 'bootstrap'
 gem 'bootstrap-sass', '~> 3.2.0'
+gem 'jquery-rails'
 gem 'sprockets'
 gem 'bcrypt'
+gem 'rails-controller-testing'
 # See https://github.com/rails/execjs#readme for more supported runtimes
 # gem 'mini_racer', platforms: :ruby
 
