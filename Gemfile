@@ -21,6 +21,9 @@ gem 'jquery-rails'
 gem 'sprockets'
 gem 'bcrypt'
 gem 'rails-controller-testing'
+gem 'faker'
+gem 'will_paginate'
+gem 'bootstrap-will_paginate'
 # See https://github.com/rails/execjs#readme for more supported runtimes
 # gem 'mini_racer', platforms: :ruby
 
